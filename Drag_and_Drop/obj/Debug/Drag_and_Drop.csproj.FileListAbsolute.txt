@@ -1,0 +1,10 @@
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\bin\Debug\Drag_and_Drop.exe.config
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\bin\Debug\Drag_and_Drop.exe
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\bin\Debug\Drag_and_Drop.pdb
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.csprojResolveAssemblyReference.cache
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.Form1.resources
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.Properties.Resources.resources
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.csproj.GenerateResource.cache
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.csproj.CoreCompileInputs.cache
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.exe
+c:\users\serwis\source\repos\Drag_and_Drop\Drag_and_Drop\obj\Debug\Drag_and_Drop.pdb
